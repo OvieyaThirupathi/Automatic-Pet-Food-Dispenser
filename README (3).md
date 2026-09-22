@@ -53,5 +53,5 @@ The automatic pet food dispenser provides a simple and convenient way to feed pe
 The working model demonstrates automatic detection of the pet and controlled food dispensing through the servo motor.
 
 **12\. Circuit Diagram**
-
+![image alt](https://github.com/OvieyaThirupathi/Automatic-Pet-Food-Dispenser/blob/6eb50477ab0103dd6f7c8633438b7dd12837c64f/food%20c.jpeg)
 **13\. Project Images**  
