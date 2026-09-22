@@ -55,3 +55,4 @@ The working model demonstrates automatic detection of the pet and controlled foo
 **12\. Circuit Diagram**
 ![image alt](https://github.com/OvieyaThirupathi/Automatic-Pet-Food-Dispenser/blob/6eb50477ab0103dd6f7c8633438b7dd12837c64f/food%20c.jpeg)
 **13\. Project Images**  
+![image alt](https://github.com/OvieyaThirupathi/Automatic-Pet-Food-Dispenser/blob/a418ae95c9d08e078c087a481e9c155fc13b8d3c/food%20w.jpeg)
